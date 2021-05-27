@@ -16,7 +16,7 @@
     "semver": "^5.4.1",
     "underscore": "^1.8.3",
     "vue": "csp",
-    "ws": "^3.0.0"
+    "ws": "^7.4.6"
   },
   "deserializers": {
     "AtomPluginJsDebug": "deserializeAtomPluginJsDebug"
